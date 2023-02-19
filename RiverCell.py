@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Feb 15 2023
-@author: Johann-Friedrich Salzmann
+@author: Johann-Friedrich Salzmann, Finn Krueger
 """
 
 from Creatures import Fish, Bear
